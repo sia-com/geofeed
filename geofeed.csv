@@ -1,4 +1,13 @@
 # prefix,country_code,region_code,city,postal
 46.8.37.0/24,GE,GE-TB,Tbilisi,0159
 5.59.55.0/24,GE,GE-TB,Tbilisi,0159
+2a13:9cc0::/29,GE,GE-TB,Tbilisi,0159
 2a00:1c28:6::/48,GE,GE-TB,Tbilisi,0159
+2a13:9cc0::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc1::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc2::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc3::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc4::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc5::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc6::/32,GE,GE-TB,Tbilisi,0159
+2a13:9cc7::/32,GE,GE-TB,Tbilisi,0159
